@@ -13,3 +13,6 @@ Website: https://www.playqub.it/
 Meet Qubit: https://youtu.be/v213IepLtEo
 
 Creator tool: http://youtube.com/watch?v=0vsFYtspCiA
+
+
+![Pfp](https://github.com/user-attachments/assets/806b925b-2b22-44f4-be74-ec1aa78fdd89)
