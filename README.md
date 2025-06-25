@@ -10,7 +10,7 @@ The actual Qubit project files are private. This is to show off the project.
 
 Website: https://www.playqub.it/
 
-Meet Qubit: https://www.youtube.com/watch?v=yThmqGXbwDE
+Meet Qubit: https://youtu.be/v213IepLtEo
 
 Creator tool: http://youtube.com/watch?v=0vsFYtspCiA
 
