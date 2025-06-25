@@ -13,5 +13,3 @@ Website: https://www.playqub.it/
 Meet Qubit: https://youtu.be/v213IepLtEo
 
 Creator tool: http://youtube.com/watch?v=0vsFYtspCiA
-
-Gameplay: https://www.youtube.com/watch?v=feQjo8hp6vo
